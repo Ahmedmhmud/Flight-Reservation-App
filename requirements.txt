@@ -1,0 +1,14 @@
+                                                         بسم الله الرحمن الرحيم
+
+# Required Libraries for the Project
+
+1. tkinter:  Used for building the GUI.  
+   - Comes preinstalled with Python on Windows and macOS.  
+   - On Linux, you may need to install it manually:
+     sudo apt install python3-tk
+
+
+2. sqlite3:  Used for managing the database.  
+   - Part of Python’s standard library (no installation required).  
+   - You only need SQLite installed on your system to use the `sqlite3` command-line tool, 
+     but the Python module works out of the box.
