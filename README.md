@@ -54,7 +54,7 @@ Run `python main.py` to launch FlySky Reservations.
 2. Fill in all required information:
    - Full Name
    - Flight Number
-   - Departure Date (YYYY-MM-DD format)
+   - Departure
    - Destination
    - Booking Date (YYYY-MM-DD format)
    - Seat Number
