@@ -123,8 +123,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@Ahmedmhmud](https://github.com/Ahmedmhmud)
+**Ahmed Mahmoud**
 - Email: ahmedmahmo431@gmail.com
 
 ---
