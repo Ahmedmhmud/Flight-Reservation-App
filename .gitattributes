@@ -1,0 +1,58 @@
+#############################
+# Force correct main language
+#############################
+*.py linguist-language=Python
+
+#############################
+# Ignore PyInstaller artifacts
+#############################
+build/** linguist-vendored
+dist/** linguist-vendored
+*.spec linguist-vendored
+
+#############################
+# Ignore compiled / cache files
+#############################
+__pycache__/** linguist-vendored
+*.pyc linguist-vendored
+*.pyo linguist-vendored
+
+#############################
+# Ignore UI / markup assets
+#############################
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.ui linguist-vendored      # PyQt / Qt Designer
+*.qrc linguist-vendored
+
+#############################
+# Ignore parser / lexer files
+#############################
+*.l linguist-vendored
+*.lex linguist-vendored
+*.toc linguist-vendored
+
+#############################
+# Ignore binary assets
+#############################
+*.exe linguist-vendored
+*.dll linguist-vendored
+*.so linguist-vendored
+*.bin linguist-vendored
+
+#############################
+# Ignore media assets
+#############################
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.ico linguist-vendored
+*.svg linguist-vendored
+
+#############################
+# Ignore logs and temp files
+#############################
+*.log linguist-vendored
+*.tmp linguist-vendored
